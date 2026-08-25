@@ -10,6 +10,8 @@ A citizen portal for reporting road potholes, broken streetlights, and water pip
 Actors: Citizen Reporter, Municipal Engineer, System Administrator
 
 Contents
+<img width="350" height="211" alt="image" src="https://github.com/user-attachments/assets/80dc0aec-59a4-4ad6-9382-9823f2dc42a9" />
+
 File	Description
 Requirements_Table.docx	5 FRs (FR-001–FR-005) + 2 NFRs (NFR-001, NFR-002) with ID, type, description, priority, acceptance criteria, and rationale
 UseCase_Diagram.pdf	UML use-case diagram — 3 actors, 7 use cases, one «include» and one «extend» relationship
